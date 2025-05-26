@@ -10,7 +10,9 @@ Generate your own tokens with `openssl rand -hex 32`.
 
 See the Garage documentation for details:
 
-https://garagehq.deuxfleurs.fr/documentation/quick-start/
+* https://garagehq.deuxfleurs.fr/documentation/quick-start/
+
+In the compose, modify the metadata and data volumes to suit your setup.
 
 Once you have the container running, having a alias in your shell makes things easier:
 
